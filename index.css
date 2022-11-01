@@ -1,0 +1,170 @@
+.bgimg{
+    border-width: 10px;
+    border-style:groove;
+    Border-color:silver ;
+    background-image: url('food-art-wallpaper-top-free-food-art-background.jpg');
+}
+.box1{
+    float: left;
+    height: 141px;
+    width: 26%;
+    border: 4px solid red;
+    color: White;
+    border-radius: 20px;
+    background-color: black;
+    margin: 25px;
+    padding-top: 44px;
+    font-size: 20px;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: bold;
+}
+.box2{
+    float: left;
+    height: 60px;
+    width: 27%;
+    border: 4px solid red;
+    color: White;
+    border-radius: 20in;
+    background-color: black;
+    margin: 42px;
+    padding-left: 57px;
+    padding-top: 25px;
+    font-size: 20px;
+    box-sizing: border-box;
+    position: absolute;
+    margin-left: 250px;
+    font-size: 19px;
+    font-style: oblique;
+    font-weight: bold;
+}
+.box3{
+    margin-top: 10px;
+    height: 172px;
+    width: 33%;
+    border: 4px solid red;
+    color: white;
+    border-radius: 20px;
+    background-color: black;
+    margin-left: 775px;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 25px;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+}
+.box4{
+    height: 437px;
+    width: 437px;
+    background-color: rgba(21, 210, 163, 0.489);
+    border: 5px solid rgba(50, 47, 47, 0.597);
+    border-radius: 241px;
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: bold;
+    box-sizing: border-box;
+    padding: 89px;
+    margin-left: 10px;
+}
+.box5{
+    border: 5px solid black;
+    width: 400px;
+    height: fit-content;
+    color: maroon;
+    font-size: 15px;
+    margin-left: 700px;
+    margin-top: -600px;
+    border-style: dashed;
+    border-color:maroon;
+    background-color: white;
+
+}
+.box6{
+    border: 5px solid red;
+    color: white;
+    background-color: black;
+    margin-top: 0px;
+    margin-left: 449px;
+    height: 53pxpx;
+    width: 334px;
+    font-size: 30px;
+    border-radius: 50px;
+    font-weight: bold;
+    font-style: oblique;
+    box-sizing: border-box;
+    padding: 11px;
+
+}
+.box7{
+margin-left: 30px;
+text-align: center;
+border: 3px solid black;
+width: 350px;
+border-radius: 20px;
+background-color: aqua;
+color: blue;
+font-weight: bold;
+}
+.box8{
+    text-align: center;
+border: 3px solid black;
+width: 350px;
+border-radius: 20px;
+background-color: aqua;
+color: blue;
+font-weight: bold;
+margin-left: 400px;
+margin-top: -245px
+}
+.box9{
+    text-align: center;
+    border: 3px solid black;
+    width: 350px;
+    border-radius: 20px;
+    background-color: aqua;
+    color: blue;
+    font-weight: bold;
+    margin-left: 768px;
+    margin-top: -245px
+}
+.box10{
+    margin-left: 30px;
+    text-align: center;
+    border: 3px solid black;
+    width: 350px;
+    border-radius: 20px;
+    background-color: aqua;
+    color: blue;
+    font-weight: bold;
+    margin-left: px;
+    margin-top: 100px
+}
+.box11{
+    text-align: center;
+    border: 3px solid black;
+    width: 350px;
+    border-radius: 20px;
+    background-color: aqua;
+    color: blue;
+    font-weight: bold;
+    margin-left: 400px;
+    margin-top: -245px
+}
+.box12{
+    text-align: center;
+    border: 3px solid black;
+    width: 350px;
+    border-radius: 20px;
+    background-color: aqua;
+    color: blue;
+    font-weight: bold;
+    margin-left: 768px;
+    margin-top: -245px
+}
+.box13{
+height: 30px;
+background-color: rgba(255, 255, 255, 0.537);
+}
